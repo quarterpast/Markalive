@@ -1,0 +1,7 @@
+{
+  "name": "markalive",
+  "version": "0.0.0",
+  "dependencies": {
+    "esprima": "~1.0.2"
+  }
+}
